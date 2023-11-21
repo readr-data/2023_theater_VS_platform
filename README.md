@@ -6,5 +6,5 @@ READr專題使用資料
 * 
 |  Page.name   |  Page.Category   |  Page.Description   |  Page.Created.Date   |  Message   |  URL   |  Total.Interactions   | movie_name  |
 |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  | ----  |
-| 臉書名稱  | 臉書專頁類別  | 臉書專頁簡介  | 臉書專頁創立日期  | 發文內容  | 文章連結  | 該篇發文總互動數  | 該篇發文提到的電影名稱 |
+| 臉書粉專名稱  | 臉書粉專類別  | 臉書粉專簡介  | 臉書粉專創立日期  | 發文內容  | 文章連結  | 該篇發文總互動數  | 該篇發文提到的電影名稱 |
 * 資料以 CC0 釋出。
